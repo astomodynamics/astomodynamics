@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astomodynamics" alt="astomodynamics" /></a> </p> -->
 
-- 🔭 I’m currently working as **space roboticist / Ph.D. student at Georgia Tech**
+- 🔭 I’m currently working as a **space roboticist / Ph.D. student at Georgia Tech**
 
 - 🌱 I’m currently learning **astrodynamics, spacecraft systems, stochastic optimal control, reinforcement learning, and probability theory**
 
