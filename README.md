@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Tomohiro! </h1>
+<h1 align="center">Hi there 👋, I'm Tomo! </h1>
 <h3 align="center">Enthusiastic Learner</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astomodynamics" alt="astomodynamics" /></a> </p> -->
