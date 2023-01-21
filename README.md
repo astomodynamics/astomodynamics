@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **astomodynamics/astomodynamics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,26 +9,36 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Tomohiro.</h1>
-<h3 align="center">Enthusiastic</h3>
+<h1 align="center">Hi there 👋, I'm Tomohiro! </h1>
+<h3 align="center">Enthusiastic Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astomodynamics" alt="astomodynamics" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astomodynamics" alt="astomodynamics" /></a> </p> -->
 
-- 🔭 I’m currently working as **space roboticist/Ph.D. student at Georgia Tech**
+- 🔭 I’m currently working as **space roboticist / Ph.D. student at Georgia Tech**
 
 - 🌱 I’m currently learning **astrodynamics, spacecraft systems, stochastic optimal control, reinforcement learning, and probability theory**
 
-- 📫 How to reach me **@astomodynamics, or tomohiro.sasaki@gatech.edu**
+- 📫 How to reach me ** [@astomodynamics](<https://github.com/astomodynamics>), or [email](<mailto:tomohiro.sasaki@gatech.edu>) **
+
+- 😄 Pronouns: he/him/his.
 
 - ⚡ Fun fact **I am a USAPL powerlifter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/astomo._.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astomo._.o" height="30" width="40" /></a>
+<a href="https://github.com/astomodynamics" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+</a>
+<a href="https://www.linkedin.com/in/tomohiro-sasaki/" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a> 
+<a href="https://instagram.com/astomo._.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astomo._.o" height="15" width="15" /> Instagram
+</a>&nbsp; 
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
