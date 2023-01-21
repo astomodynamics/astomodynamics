@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **astrodynamics, spacecraft systems, stochastic optimal control, reinforcement learning, and probability theory**
 
-- 📫 How to reach me ** [@astomodynamics](<https://github.com/astomodynamics>), or [email](<mailto:tomohiro.sasaki@gatech.edu>) **
+- 📫 How to reach me **[@astomodynamics](<https://github.com/astomodynamics>), or [email](<mailto:tomohiro.sasaki@gatech.edu>)**
 
 - 😄 Pronouns: he/him/his.
 
