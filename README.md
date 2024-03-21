@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/him/his.
 
-- ⚡ Fun fact **I am a USAPL powerlifter and 75kg GA state champion**
+- ⚡ Fun fact **I am a USAPL powerlifter and　2023 75kg GA state champion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
