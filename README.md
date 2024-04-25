@@ -28,16 +28,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I am a USAPL powerlifter and 2023 75kg GA state champion**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/astomodynamics" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github </a> &nbsp; 
-  <a href="https://www.linkedin.com/in/tomohiro-sasaki/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </a> &nbsp; 
-  <a href="https://instagram.com/astomo._.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astomo._.o" height="15" width="15" /> Instagram </a> 
-  
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
