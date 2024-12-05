@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda, bash,cpp,cmake,docker,git,github,latex, linux,matlab, py,pytorch,ros, sklearn, vscode" />
+    <img src="https://skillicons.dev/icons?i=anaconda,bash,cpp,cmake,docker,git,github,latex,linux,matlab,py,pytorch,ros,sklearn,vscode" />
   </a>
 </p>
 
