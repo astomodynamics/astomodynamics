@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,bash,cpp,cmake,docker,git,github,latex,linux,matlab,py,pytorch,ros,sklearn,vscode" />
-  </a>
+  </a><a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-dots.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 </p>
