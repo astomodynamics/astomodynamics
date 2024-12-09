@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a **space roboticist / Ph.D. student at Georgia Tech**
 
-- 🌱 I’m learning **astrodynamics, spacecraft systems, stochastic optimal control, machine learning, and reinforcement learning**
-
-- 📫 How to reach me **[@astomodynamics](<https://github.com/astomodynamics>), or [email](<mailto:tomohiro.sasaki@gatech.edu>)**
-
-- 😄 Pronouns: he/him/his.
+- 🌱 I’m studying **astrodynamics, spacecraft systems, stochastic optimal control, machine learning, and reinforcement learning**
 
 - ⚡ Fun fact **I am a USAPL powerlifter and 2023 75kg GA state champion**
 
