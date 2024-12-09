@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astomodynamics&show_icons=true&locale=en&layout=compact" alt="astomodynamics" /></p> -->
 ---
-### :fire: My Stats :
+<h3 align="center">:fire: My Stats</h3>
+
 ![Tomo's Github stats](https://github-readme-stats.vercel.app/api?username=astomodynamics&show_icons=true)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/astomodynamics?theme=auto&font=baloo&extension=null)
