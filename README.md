@@ -37,9 +37,11 @@ Here are some ideas to get you started:
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astomodynamics&show_icons=true&locale=en&layout=compact" alt="astomodynamics" /></p> -->
 ---
 ### :fire: My Stats :
-![LeetCode Stats](https://leetcode.card.workers.dev/astomodynamics?theme=auto&font=baloo&extension=null)
-
 ![Tomo's Github stats](https://github-readme-stats.vercel.app/api?username=astomodynamics&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/astomodynamics/github-readme-stats)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/astomodynamics?theme=auto&font=baloo&extension=null)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astomodynamics&" alt="astomodynamics" /></p> -->
 
