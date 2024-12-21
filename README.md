@@ -42,8 +42,13 @@
 <h3 align="center">:fire: My Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astomodynamics&show_icons=true" alt="Tomo's GitHub stats" />
-  <img src="https://leetcode.card.workers.dev/astomodynamics?theme=auto&font=baloo&extension=null" alt="LeetCode Stats" />
+  <!-- GitHub Stats with tokyonight theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=astomodynamics&show_icons=true&theme=tokyonight" 
+       alt="Tomo's GitHub stats" />
+  
+  <!-- LeetCode Stats with dark theme and baloo font -->
+  <img src="https://leetcode.card.workers.dev/astomodynamics?theme=dark&font=baloo" 
+       alt="LeetCode Stats" />
 </p>
 
 ---
