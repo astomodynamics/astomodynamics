@@ -46,10 +46,6 @@
   <img src="https://leetcode.card.workers.dev/astomodynamics?theme=auto&font=baloo&extension=null" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astomodynamics" alt="GitHub Streak" />
-</p>
-
 ---
 
 <p align="center">
