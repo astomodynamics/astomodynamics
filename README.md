@@ -45,7 +45,9 @@
   <!-- GitHub Stats with tokyonight theme -->
   <img src="https://github-readme-stats.vercel.app/api?username=astomodynamics&show_icons=true&theme=tokyonight" 
        alt="Tomo's GitHub stats" />
-  
+</p>
+
+<p align="center">
   <!-- LeetCode Stats with dark theme and baloo font -->
   <img src="https://leetcard.jacoblin.cool/astomodynamics?theme=unicorn&font=Baloo%202"
        alt="LeetCode Stats" />
