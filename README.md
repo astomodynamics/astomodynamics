@@ -47,7 +47,7 @@
        alt="Tomo's GitHub stats" />
   
   <!-- LeetCode Stats with dark theme and baloo font -->
-  <img src=![LeetCode Stats](https://leetcard.jacoblin.cool/astomodynamics?theme=unicorn&font=Baloo%202)
+  <img src="https://leetcard.jacoblin.cool/astomodynamics?theme=unicorn&font=Baloo%202"
        alt="LeetCode Stats" />
 </p>
 
