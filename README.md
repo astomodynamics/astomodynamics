@@ -20,8 +20,8 @@
 ---
 
 ### About Me
-- 🔭 I’m currently working as a **space roboticist / Ph.D. student at Georgia Tech**  
-- 🌱 I’m studying **astrodynamics, spacecraft systems, stochastic optimal control, machine learning, and reinforcement learning**  
+- 🔭 I’m currently working as a **Robotics Engineer at Kidou Systems, Inc. ** and **Ph.D. student at Georgia Tech**  
+- 🌱 I’m studying **astrodynamics, spacecraft systems, robotics, control theory, and reinforcement learning**  
 - ⚡ Fun fact: **I am a USAPL powerlifter and 2023 75kg GA state champion**  
 
 ---
