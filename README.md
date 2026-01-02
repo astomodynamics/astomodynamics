@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-  Passionate about space robotics and everything around astrodynamics!
+  Passionate about astrodynamics and everything around robotics!
   </em>
 </p>
 
