@@ -59,15 +59,3 @@
   <em>Thanks for visiting! Feel free to reach out or explore my repositories.</em>
 </p>
 
-### :pushpin: My Pinned Repos
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astomodynamics&repo=cddp-cpp&theme=tokyonight)](https://github.com/astomodynamics/cddp-cpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astomodynamics&repo=cddp_mpc&theme=tokyonight)](https://github.com/astomodynamics/cddp_mpc)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astomodynamics&repo=casadi_mpc&theme=tokyonight)](https://github.com/astomodynamics/casadi_mpc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astomodynamics&repo=GT-presentation-template&theme=tokyonight)](https://github.com/astomodynamics/GT-presentation-template)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astomodynamics&repo=julia-mppi&theme=tokyonight)](https://github.com/astomodynamics/julia-mppi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astomodynamics&repo=julia-iLQR&theme=tokyonight)](https://github.com/astomodynamics/julia-iLQR)
-
