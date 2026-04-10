@@ -47,12 +47,6 @@
        alt="Tomo's GitHub stats" />
 </p>
 
-<p align="center">
-  <!-- LeetCode Stats with dark theme and baloo font -->
-  <img src="https://leetcard.jacoblin.cool/astomodynamics?theme=unicorn&font=Baloo%202"
-       alt="LeetCode Stats" />
-</p>
-
 ---
 
 <p align="center">
