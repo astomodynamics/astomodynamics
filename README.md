@@ -37,15 +37,6 @@
   </a>
 </p>
 
----
-
-<h3 align="center">:fire: My Stats</h3>
-
-<p align="center">
-  <!-- GitHub Stats with tokyonight theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=astomodynamics&show_icons=true&theme=tokyonight" 
-       alt="Tomo's GitHub stats" />
-</p>
 
 ---
 
