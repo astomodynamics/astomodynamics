@@ -56,12 +56,12 @@
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=astomodynamics&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astomodynamics&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astomodynamics&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=astomodynamics&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
