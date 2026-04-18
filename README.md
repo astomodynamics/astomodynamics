@@ -28,15 +28,9 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab" />
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-dots.svg" alt="Julia" width="48" height="48" style="vertical-align:middle"/>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,matlab,julia,pytorch,jax,ros,linux,docker,cmake,git,github" alt="Languages and Tools" />
   </a>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <a href="https://github.com/jax-ml/jax" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo.svg" alt="JAX" width="88" height="48" style="vertical-align:middle"/>
-  </a>
-  <img src="https://skillicons.dev/icons?i=ros,linux,docker,cmake,git,github" />
 </p>
 
 ---
