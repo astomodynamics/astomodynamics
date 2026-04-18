@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tomo!</h1>
-<h3 align="center">Ph.D. Researcher · Astrodynamics × Robotics × Optimal Control</h3>
+<h3 align="center">Researcher · Astrodynamics × Robotics × Optimal Control</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tomohiro-sasaki/">
