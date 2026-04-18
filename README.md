@@ -19,8 +19,8 @@
 ### 🛰️ About Me
 
 - 🔭 Robotics Engineer at **Kidou Systems, Inc.** · Ph.D. student at **Georgia Tech** 
-- 🧠 Research focus — **constrained nonlinear optimal control** and **differential dynamic programming**,  applied to spacecraft and quadrotor systems
-- 🌱 Currently exploring — differentiable optimization, GPU-accelerated trajectory optimization, and reinforcement learning for aerial & space autonomy
+- 🧠 Research focus — **constrained nonlinear optimal control** and **differential dynamic programming**
+- 🌱 Currently exploring — GPU-accelerated trajectory optimization and reinforcement learning for aerial & space autonomy
 - ⚡ Fun fact — USAPL powerlifter · 2023 Georgia 75 kg State Champion 🏋️
 
 ---
