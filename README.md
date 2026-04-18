@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <em>Thanks for visiting — feel free to reach out about optimal control, spacecraft, or robots. 🚀</em>
+  <em>Thanks for visiting — always happy to hear from collaborators and fellow researchers. 🚀</em>
 </p>
