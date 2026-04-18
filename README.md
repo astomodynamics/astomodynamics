@@ -32,7 +32,7 @@
   <a href="https://julialang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-dots.svg" alt="Julia" width="48" height="48" style="vertical-align:middle"/>
   </a>
-  <img src="https://skillicons.dev/icons?i=pytorch,latex" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
   <a href="https://github.com/jax-ml/jax" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo.svg" alt="JAX" width="88" height="48" style="vertical-align:middle"/>
   </a>
